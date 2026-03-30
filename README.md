@@ -2,18 +2,13 @@
  
 ![main_01](https://github.com/user-attachments/assets/b638dd3c-190f-449e-8a14-becb146401d8)
 
-キーボードマーケットトーキョー2026で初頒布した左右分割キーボード用基板のリポジトリです。
+キーボードマーケットトーキョー2026で初頒布した左右分割キーボード用基板のリポジトリです。<br>
+このbranchではキーケット2026で頒布した、製造番号`10779197A_Y19_260108`についての情報を記載しています。
 
-xiao取り付け部を左上に見たとき、右下にある製造番号ごとにbranchを作成、情報を追加していきます。
+現在検証中のFWについては後日追記予定ですが、取り急ぎ回路図のPDFファイルを以下に格納しています。
 
-### branchの切り替え方
+お手元のxiaoモジュールにて検証いただける場合は、以下のPDFファイルを参考にファームウェアを構築いただければと思います。
 
-- Webブラウザを使用している場合
-  * ページ左上の`[main]`とあるボタンを押すと、切り替えることができます
+![circuit_diagram](Docs/circiut_diagram.png)
 
-![how_to_switch_branch](https://github.com/user-attachments/assets/e1a4cf81-884a-4b8d-9e5e-163bfea162fe)
-
-- GitHub mobile app を使用している場合
-  * 画面中程の`Change branch`をタップすると、切り替えることができます
-
-![how_to_switch_branch_on_moble](https://github.com/user-attachments/assets/6bc66cd8-7f42-4fa7-88b3-e5dd771f25fa)
+[PDFファイル](Docs/Proto_Split_w.pdf)
