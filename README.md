@@ -15,9 +15,8 @@
 
 ## \[update 2026/04/01\]: アクリルボトムプレート用のデータを以下に格納しました。
 
-![main_02]()
+![acrylic_bottom](https://github.com/user-attachments/assets/bf0a9402-c511-4eeb-8242-b847cc4e3178)
 
-レーザー加工サービス等を使用する場合は、サービスの入稿条件等を確認の上、ご利用ください。
+レーザー加工サービス等を利用する場合は、サービスの入稿条件等を確認の上、ご使用ください。
 
 [svgファイル](Accesory/Acrylic/bottom-inkscape.svg)
-
