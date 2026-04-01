@@ -12,3 +12,12 @@
 ![circuit_diagram](Docs/circiut_diagram.png)
 
 [PDFファイル](Docs/Proto_Split_w.pdf)
+
+## \[update 2026/04/01\]: アクリルボトムプレート用のデータを以下に格納しました。
+
+![main_02]()
+
+レーザー加工サービス等を使用する場合は、サービスの入稿条件等を確認の上、ご利用ください。
+
+[svgファイル](Accesory/Acrylic/bottom-inkscape.svg)
+
